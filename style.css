@@ -1,0 +1,10 @@
+body{
+    background-color: darkolivegreen;
+}
+
+form {
+    background-color: darkturquoise;
+    height: 400px;
+    width: 700px;
+    text-align: center;
+}
